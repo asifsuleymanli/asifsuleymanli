@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Asif Süleymanlı!</h1>
 
 <p align="center">
-  <img src="Asifbanner.png" alt="Asif's Profile Photo" width="90" style="border-radius:50%;">
+  <img src=" " alt="Asif's Profile Photo" width="90" style="border-radius:50%;">
 </p>
 
 <p align="center">
